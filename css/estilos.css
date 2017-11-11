@@ -1,0 +1,32 @@
+p{
+font-family: "Dancing Script", cursive;
+}
+
+body {
+	margin: 20px;
+}
+
+#cabecera{
+background-color: #5b7989;
+}
+#central{
+background-color: #82c3a6;
+}
+
+#cabecera .titulo {
+text-align: left;
+color: white;
+font-size: 2em;
+text-shadow: 3px 2px 2px #02010a;
+}
+
+#cabecera .contenedor #menu-principal > div {
+text-align: center;
+font-size: 1em;
+color: white;
+padding: 10px;
+margin: 10px;
+background-color: #5b7989;
+width: 5%;
+float: right;
+}
